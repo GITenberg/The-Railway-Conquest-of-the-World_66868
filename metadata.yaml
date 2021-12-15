@@ -1,5 +1,8 @@
 _repo: The-Railway-Conquest-of-the-World_66868
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66868-h/images/cover.jpg
 creator:
   author:
     agent_name: Talbot, Frederick Arthur Ambrose
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '417'
     url: http://www.gutenberg.org/2009/agents/417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66868#The-Railway-Conquest-of-the-World
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66868'
